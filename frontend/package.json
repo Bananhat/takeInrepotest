@@ -27,7 +27,7 @@
     "bootstrap": "^4.4.1",
     "cosmicjs": "^3.2.41",
     "curl": "^0.1.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "font-awesome": "^4.7.0",
     "formik": "^2.1.4",
     "graphql": "^15.0.0",
